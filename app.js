@@ -21,11 +21,11 @@
 // }
 // const output= sum(2,10);
 // console.log(output)
-const frineds = ["Arifa", "Nabila", "Jakiye", "Jannat", "Airin"];
-const persome = {
-  name: "arifa",
-  age: 21,
-  frined: frineds,
-};
-persome.name= "Hero Alom"
-console.log(persome)
+// const frineds = ["Arifa", "Nabila", "Jakiye", "Jannat", "Airin"];
+// const persome = {
+//   name: "arifa",
+//   age: 21,
+//   frined: frineds,
+// };
+// persome.name= "Hero Alom"
+// console.log(persome)
