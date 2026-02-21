@@ -27,5 +27,5 @@ const products = [
 // const result = products.filter((product) => product.name === "redmi");
 // const result = products.filter((product) => product.price>=25000);
 // find 1 ta object return kore_________________
-const result = products.find(product=>product.name==="iphone")
-console.log(result);
+// const result = products.find(product=>product.name==="iphone")
+// console.log(result);
