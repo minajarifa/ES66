@@ -46,4 +46,9 @@ const products = [
   { name: "oppo", brand: "xiaomi", price: 40000, color: "black" },
   { name: "endroyed", brand: "xiaomi", price: 50000, color: "black" },
 ];
-
+const nerData = {
+  name: "redmi",
+  brand: "xiaomi",
+  price: 30000,
+  color: "black",
+};
