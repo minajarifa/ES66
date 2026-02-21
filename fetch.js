@@ -46,9 +46,14 @@ const products = [
   { name: "oppo", brand: "xiaomi", price: 40000, color: "black" },
   { name: "endroyed", brand: "xiaomi", price: 50000, color: "black" },
 ];
-const nerData = {
+const newData = {
   name: "redmi",
   brand: "xiaomi",
   price: 30000,
   color: "black",
 };
+const newArray=[...products, newData]
+
+const remainingProduct= products.filter(p=>p.name!=="sumsung");
+const newArray2=[...remainingProduct,newData]
+console.log(newArray2)
