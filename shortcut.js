@@ -1,7 +1,7 @@
 // false value
 //  0 -0 "" null undefined
 // "asdfgh" []{}true
-const test = "rahim";
+// const test = "rahim";
 // if (test) {
 //     console.log("It's Truty")
 // } else {
@@ -15,8 +15,8 @@ const test = "rahim";
 
 
 
-const isActive = true;
-const showUser = () => console.log("show user green");
-const hideUser = () => console.log("hide user green");
-// isActive ? showUser() : hideUser();
-isActive && showUser() 
+// const isActive = true;
+// const showUser = () => console.log("show user green");
+// const hideUser = () => console.log("hide user green");
+// // isActive ? showUser() : hideUser();
+// isActive && showUser() 
