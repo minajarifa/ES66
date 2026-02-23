@@ -6,5 +6,6 @@ const persone ={
     10:"secter code"
 }
 // const herName= persone.name;
+// const herName= persone["frined"];
 const herName= persone["frined"];
 console.log(herName)
